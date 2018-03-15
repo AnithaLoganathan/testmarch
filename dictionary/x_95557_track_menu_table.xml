@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Track Menu Table" max_length="40" name="x_95557_track_menu_table" type="collection">
+        <element label="meal" max_length="300" name="meal" type="string"/>
+        <element choice="1" label="Meal type" mandatory="true" max_length="40" name="meal_type" type="choice">
+            <choice>
+                <element label="breakfast" sequence="1" value="1"/>
+                <element label="morningsnack" sequence="2" value="2"/>
+                <element label="lunch" sequence="3" value="3"/>
+                <element label="eveningsnack" sequence="4" value="4"/>
+                <element label="dinner" sequence="5" value="5"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="state" max_length="100" name="state" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+    </element>
+</database>

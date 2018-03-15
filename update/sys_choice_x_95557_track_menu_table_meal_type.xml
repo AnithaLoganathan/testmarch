@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="meal_type" table="x_95557_track_menu_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>breakfast</label>
+            <language>en</language>
+            <name>x_95557_track_menu_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 19:24:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8efc0f24fb0130039f200fe9310c71b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 19:26:12</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>morningsnack</label>
+            <language>en</language>
+            <name>x_95557_track_menu_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 19:25:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c500dcf24fb0130039f200fe9310c73b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 19:26:14</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>lunch</label>
+            <language>en</language>
+            <name>x_95557_track_menu_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 19:25:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49efc0f24fb0130039f200fe9310c71e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 19:26:16</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>eveningsnack</label>
+            <language>en</language>
+            <name>x_95557_track_menu_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 19:25:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b300d0f24fb0130039f200fe9310c71f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 19:26:18</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meal_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>dinner</label>
+            <language>en</language>
+            <name>x_95557_track_menu_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 19:25:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3bffc8364fb0130039f200fe9310c7cf</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 19:26:21</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>meal_type</element>
+            <name>x_95557_track_menu_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 19:24:47</sys_created_on>
+            <sys_id>28efc0f24fb0130039f200fe9310c71c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>meal_type</sys_name>
+            <sys_package display_value="Track Menu" source="x_95557_track_menu">555fccba4f70130039f200fe9310c751</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Track Menu">555fccba4f70130039f200fe9310c751</sys_scope>
+            <sys_update_name>sys_choice_x_95557_track_menu_table_meal_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 19:24:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

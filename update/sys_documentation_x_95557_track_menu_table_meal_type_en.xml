@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="meal_type" label="Meal type" language="en" table="x_95557_track_menu_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>meal_type</element>
+            <help/>
+            <hint/>
+            <label>Meal type</label>
+            <language>en</language>
+            <name>x_95557_track_menu_table</name>
+            <plural>Meal types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 19:24:29</sys_created_on>
+            <sys_id>c8df84724fb0130039f200fe9310c7e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Meal type</sys_name>
+            <sys_package display_value="Track Menu" source="x_95557_track_menu">555fccba4f70130039f200fe9310c751</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Track Menu">555fccba4f70130039f200fe9310c751</sys_scope>
+            <sys_update_name>sys_documentation_x_95557_track_menu_table_meal_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 19:24:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
