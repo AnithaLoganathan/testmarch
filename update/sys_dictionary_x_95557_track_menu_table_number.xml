@@ -31,6 +31,8 @@
         <element>number</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -52,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-15 19:22:24</sys_created_on>
-        <sys_id>39ee1c7adb3013006811d8c5ce961987</sys_id>
+        <sys_id>bc10a4324ff0130039f200fe9310c749</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="Track Menu" source="x_95557_track_menu">555fccba4f70130039f200fe9310c751</sys_package>
@@ -60,7 +62,7 @@
         <sys_scope display_value="Track Menu">555fccba4f70130039f200fe9310c751</sys_scope>
         <sys_update_name>sys_dictionary_x_95557_track_menu_table_number</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-03-15 20:30:25</sys_updated_on>
+        <sys_updated_on>2018-03-15 20:35:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
